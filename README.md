@@ -13,8 +13,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
   <div>
   <h2 font-weight="bold">Programming Language</h2>
    <div align="left">
-    <code><img alt="Rust" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"></code>
-    <code><img  alt="Solidity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></code>
+    <code><img  alt="Solidity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"></code>
     <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
      <code><img alt="Nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
     <code><img  alt="PHP" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
